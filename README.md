@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-laravel-app
 Dockerfile to build laravel app and docker-compose file to define, create and manage services. <br>
 link to the laravel app repo: https://github.com/f1amy/laravel-realworld-example-app
@@ -65,3 +66,6 @@ Landing Page:
 
 Endpoints:
 ![endpoint](./result-endpoints.png)
+=======
+# dockerfile-test
+>>>>>>> 93738dece03d8fe5fd808a0fd7a0dadf115dd195
